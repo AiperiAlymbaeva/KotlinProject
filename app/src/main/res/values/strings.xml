@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Project</string>
+    <string name="video_title">Video Title</string>
+    <string name="to_do">TO DO</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="course_detail">Course Detail</string>
+    <string name="course_name">Course Name</string>
+</resources>
